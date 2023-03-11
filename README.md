@@ -1,3 +1,3 @@
-# netlinx-notes
+# AMX-netlinx-notes
 
-Apuntes NetLinx directamente anotados sobre un fichero .axs
+NetLinx notes written directly on a .axs file
